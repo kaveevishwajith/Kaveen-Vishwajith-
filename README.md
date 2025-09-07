@@ -5,15 +5,17 @@
 
 🚀 **Backend Developer | Full-Stack Enthusiast | Networking Lover**  
 🎓 Undergraduate at **BCI Campus** – BSc (Hons) in IT  
-🎯 Passionate about **.NET, React, Next.js, Node.js, TypeScript, MS SQL, My SQL, Networking**  
-📌 Completed Internship at **CESL** – ERP System Development  
+💼 Currently working at **CESL** as a **Computer Programmer**  
+✅ Completed Internship at **CESL** – ERP System Development  
+🎯 Skilled in **.NET, React, Next.js, TypeScript, Node.js, MS SQL, MySQL, Networking**  
+  
 
 ---
 
 ## 🔥 About Me
 
-- 🌱 Exploring Backend Development & Computer Networking  
-- 🛠️ Hands-on with ERP systems, HR modules, and leave management  
+- 🌱 Exploring Fullstack  Development & Computer Networking 
+- 🛠️ Hands-on with ERP systems, HR Modules 
 - 📚 Always learning new technologies to sharpen my skills  
 - 🤝 Open to collaborations on impactful projects  
 
