@@ -3,10 +3,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kaveevishwajith&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaveen%20Vishwajith-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/kaveen-vishwajith-435436254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-🚀 **Aspiring Backend Developer & Networking Enthusiast**  
+🚀 **Backend Developer | Full-Stack Enthusiast | Networking Lover**  
 🎓 Undergraduate at **BCI Campus** – BSc (Hons) in IT  
-🎯 Passionate about **.NET, React, Next.js, Node.js, TypeScript, MS SQL, Networking**  
-📌 Completed Internship at **CESL** – ERP HR Module Development  
+🎯 Passionate about **.NET, React, Next.js, Node.js, TypeScript, MS SQL, My SQL, Networking**  
+📌 Completed Internship at **CESL** – ERP System Development  
 
 ---
 
